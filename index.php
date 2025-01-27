@@ -910,7 +910,7 @@
             </div>
             <br />
             <div style="text-align: center; font-size: 15px">
-              Copyright 2024 mybenefitsprime.org
+            Copyright Reserved 2025 ACAPlanAssist.com
               <br /><br />
               <br /><br />
             </div>
