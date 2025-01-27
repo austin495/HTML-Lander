@@ -511,7 +511,7 @@
               <source type="image/webp" srcset="/untitled_1_3-1.webp">
               <img src="/untitled_1_3-1.webp" alt="Breaking news" style="height: 50px; border-radius: 8px;"/>
             </picture>
-            <h1>Americans Qualify For Up To $6,388 To Pay For Medical Expenses, Giving You Peace Of Mind For Rent, Bills, And Groceries.</h1>
+            <h1>Qualify for Up to $6,388 Through ACA to Help Pay for Medical Expenses, So You Can Keep More for Rent, Groceries, and Everyday Expenses.</h1>
           </div>
         </div>
   
@@ -525,9 +525,9 @@
                 <div class="swiper-slide">
                   <div class="form-wrapper slide-content" id="page-1">
                     <div class="question" style="margin-bottom: 10px">
-                      Claim your support fund now, which pays for your healthcare expenses, allowing you to spend more on groceries, fuel, housing, and other bills, including $0 health coverage.
+                    Secure your support fund Now to cover healthcare costs, giving you more freedom to spend on groceries, fuel, housing, and more, even with $0 health plans.
                     </div>
-                    <div style="margin: 16px 0; color: #d83933; font-family: 'Poppins';">Click Below To Claim</div>
+                    <div style="margin: 16px 0; color: #d83933; font-family: 'Poppins';">Click here to claim!</div>
   
                     <div
                       class="button-positive-large next-button"
@@ -566,10 +566,10 @@
                   <div class="form-wrapper slide-content" id="page-2">
                     <div class="count">1 of 3</div>
                     <div class="question">
-                      Do you earn less than $50,000 per year?
+                      Do you make less than $50,000 a year?
                     </div>
                     <div class="explainer">
-                      You must earn less than $50,000 per year to qualify.
+                    TO QUALIFY, YOUR ANNUAL INCOME MUST BE UNDER $50,000.
                     </div>
   
                     <div
@@ -645,9 +645,9 @@
                 <div class="swiper-slide">
                   <div class="form-wrapper slide-content" id="page-3">
                     <div class="count">2 of 3</div>
-                    <div class="question">Are you on Medicare or Medicaid?</div>
+                    <div class="question">Are you currently receiving Medicare or Medicaid?</div>
                     <div class="explainer">
-                      To qualify, you must not be on Medicare or Medicaid.
+                    TO QUALIFY, YOU MUST NOT BE ENROLLED IN MEDICARE OR MEDICAID.
                     </div>
   
                     <div
@@ -722,10 +722,10 @@
                   <div class="form-wrapper slide-content" id="page-4">
                     <div class="count">Last question!</div>
                     <div class="question" style="margin-bottom: 5px">
-                      How old are you?
+                    What is your age?
                     </div>
                     <div class="explainer">
-                      You must be between 18 to 64 years old to qualify.
+                    TO QUALIFY, YOU MUST BE BETWEEN 18 AND 64 YEARS OLD.
                     </div>
   
                     <div
@@ -799,14 +799,14 @@
                 <div class="swiper-slide">
                   <div class="form-wrapper slide-content" id="page-5">
                     <div style="width: 100%">
-                    <span id="annou" style="font-family: 'Poppins';font-weight: 700;font-size: 58px;line-height: 1.3em;color: #112f4e;padding: 10px;">Congress Announces $6,400 Subsidy Available To All Americans</span>
-                      <span id="congrats" style="text-align: center;background-color: #d83933;color: #fff;font-size: 65px;letter-spacing: -4px;font-weight: bold;font-family: 'PT Serif';margin: 10px -35px;display: block;padding: 8px 0;">★ CONGRATULATIONS ★</span>
+                    <span id="annou" style="font-family: 'Poppins';font-weight: 700;font-size: 58px;line-height: 1.3em;color: #112f4e;padding: 10px;">$6,400 in Healthcare Assistance Now Available to Eligible Individuals</span>
+                      <span id="congrats" style="text-align: center;background-color: #d83933;color: #fff;font-size: 65px;letter-spacing: -4px;font-weight: bold;font-family: 'PT Serif';margin: 10px -35px;display: block;padding: 8px 0;">★ GREAT NEWS ★</span>
                     </div>
   
                     <div id="pre-qualify" style="font-size: 30px; padding: 10px 28px; font-family: 'Poppins'; color: #112f4e;">
-                      You pre-qualify! Call immediately to claim your
+                      You pre-qualify! Call now to claim your
                       <strong style="text-decoration: underline">$6,400</strong>
-                      Subsidy & <strong>$0</strong> Health Plan.
+                      coverage and <strong>$0</strong> Health Plan.
                     </div>
   
                     <!-- C2C Button-->
@@ -880,34 +880,12 @@
             >
               <div style="font-size: 16px;"><strong>TERMS OF SERVICE:</strong></div>
               <p>
-                mybenefitsprime.org is a referral source that provides information
-                and access to a helpline to match consumers with companies that
-                may provide certain insurance coverage to them. mybenefitsprime.org                does not act as an insurance broker and does not make decisions
-                about insurance coverage that may be available to you.
-                mybenefitsprime.org doesn't promise a specific outcome or the results
-                you may achieve by calling the helpline. The helpline is free to
-                call but the services or programs that you pursue may have costs
-                associated with them. Neither mybenefitsprime.org nor any of the
-                supplemental insurance plans to which you may be connected are
-                endorsed by the U.S. or the Medicare program.
+              Welcome to ACAPlanAssist.com. We are a referral source designed to provide information and connect consumers with companies that may offer certain insurance coverage options. ACAPlanAssist.com does not act as an insurance broker, agent, or advisor, nor do we make decisions regarding insurance coverage availability or eligibility. The helpline provided on our platform is free to call; however, the services or insurance programs you choose to pursue may involve costs. Neither ACAPlanAssist.com nor any supplemental insurance plans or providers to which you may be connected are endorsed by the U.S. government or the Medicare program. We do not guarantee a specific outcome or result from using our services.
               </p>
               <br />
               <p style="margin: 0;">
-                Our goal is to provide exceptional service. One of our agents
-                may reach out to you to discuss your order, ask for feedback,
-                and/or see if you need any assistance with your products,
-                services, or plans, at the phone number you provided regardless
-                of your do-not-call list status. You may opt-out of further
-                contact at any time by simply telling our customer service team
-                that you would no longer like to be contacted. In the event that
-                our team is unable to reach you by phone, they may send you a
-                text message letting you know that we called. Both our text
-                messages and phone calls may be sent or connected utilizing
-                automated software. Carrier charges may apply. You may opt-out
-                of any future contact via text message by replying anytime with
-                "STOP".
+              By submitting your information, you consent to being contacted by one of our agents to discuss your request, gather feedback, or provide assistance with products, services, or plans. These communications may occur via the phone number you provided, even if you are on a do-not-call list. If we are unable to reach you by phone, we may send a text message notifying you of our attempt to contact you. Phone calls and text messages may be sent using automated technology, and standard carrier fees may apply to text messages. You may opt out of communications at any time by informing our customer service team or replying with “STOP” to text messages. By using ACAPlanAssist.com, you acknowledge and agree to these terms. For any questions or assistance, please contact our customer service team.
               </p>
-              <span class="G2"><a href="https://www.g2llc.com/approved-health-insurance-provider/?pdb=309" target="_blank">Benefit Link Inc. | G2</a></span>
             </div>
             
             <div>
