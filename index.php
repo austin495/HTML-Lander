@@ -887,32 +887,9 @@
               By submitting your information, you consent to being contacted by one of our agents to discuss your request, gather feedback, or provide assistance with products, services, or plans. These communications may occur via the phone number you provided, even if you are on a do-not-call list. If we are unable to reach you by phone, we may send a text message notifying you of our attempt to contact you. Phone calls and text messages may be sent using automated technology, and standard carrier fees may apply to text messages. You may opt out of communications at any time by informing our customer service team or replying with “STOP” to text messages. By using ACAPlanAssist.com, you acknowledge and agree to these terms. For any questions or assistance, please contact our customer service team.
               </p>
             </div>
-            
+              <p style="margin: 0 0 10px 0;">Connect with Us Now <a class="foot-call" href="tel:+18447804289">+1 844-780-4289</a></p>
             <div>
-              <a
-                href="/privacy.html"
-                style="color: #fff"
-                aria-label="Privacy Policy"
-                >Privacy Policy</a
-              >
-              |
-              <a href="/terms.html" style="color: #fff"
-              aria-label="Terms of Service"
-                >Terms of Service</a
-              >
-              |
-              <a
-                href="/contact.html"
-                style="color: #fff"
-                aria-label="Contact Us"
-                >Contact Us</a
-              >
-            </div>
-            <br />
-            <div style="text-align: center; font-size: 15px">
-            Copyright Reserved 2025 ACAPlanAssist.com
-              <br /><br />
-              <br /><br />
+              
             </div>
           </div>
         </div>
